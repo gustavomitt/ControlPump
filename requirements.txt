@@ -1,0 +1,6 @@
+cronus
+requests
+httplib2
+datetime
+simplejson
+thingspeak
